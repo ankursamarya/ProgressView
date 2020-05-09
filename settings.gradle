@@ -1,0 +1,3 @@
+rootProject.name='ProgressVIew'
+include ':app'
+include ':progressviewlib'

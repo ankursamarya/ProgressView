@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tumnb_color">#FF9803</color>
+    <color name="circle_color">#C0C0C0</color>
+    <color name="progress_color">#21BC83</color>
+</resources>
