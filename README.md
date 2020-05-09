@@ -1,6 +1,6 @@
 # ProgressView
-ProgressView can be found under progressviewlib
-Has features:
+ProgressView can be found under progressviewlib,
+has features:
 1. Can animate to progress value.
 2. Can animate forward and backard from current value.
 3. Circle, thumb, progress color can be set from XML.
